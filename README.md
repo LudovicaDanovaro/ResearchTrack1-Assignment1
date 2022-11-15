@@ -279,7 +279,12 @@ This function checks that the selected golden token is not already in the ```gol
 In the end I have silver and golden boxes distributes in pairs as:
 ![ArenaFinale](https://user-images.githubusercontent.com/80389978/199467322-e596464c-1a5f-4570-b78a-c7a04c18fd3f.png)
 
-### Future improvements
+### Video Demonstration
+
+https://user-images.githubusercontent.com/80389978/201900773-14e13022-5552-4235-baf3-689244dee0c3.mp4
+
+
+### Future Improvements
 
 Another possibility to do this exercise is to make a function Grabbing() and a function Releasing() to avoid having a single block of code. I didn't do it because it seems to me that was much clear see what the program does consecutively. But the only differences stay in :
 
