@@ -277,6 +277,7 @@ This function checks that the selected golden token is not already in the ```gol
 
 ### Final Arena
 In the end I have silver and golden boxes distributes in pairs as:
+
 ![ArenaFinale](https://user-images.githubusercontent.com/80389978/199467322-e596464c-1a5f-4570-b78a-c7a04c18fd3f.png)
 
 ### Video Demonstration
